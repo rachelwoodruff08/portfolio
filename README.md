@@ -1,10 +1,10 @@
 
 # Rachel Woodruff — Epidemiology, Public Health Informatics & Data Science Portfolio
 
-Welcome to my professional portfolio! This repository hosts a collection of my publicly shareable work in **epidemiology**, **public health analytics**, and **data science**. It is published as a GitHub Pages site for easy browsing.
+Welcome to my professional portfolio! This repository hosts a collection of my publicly shareable work in **epidemiology**, **public health informatics**, and **data science**. It is published as a GitHub Pages site for easy browsing.
 
 ## 🌐 View the Portfolio
-- **Live Site:** https://yourusername.github.io/data-portfolio
+- **Live Site:** https://rachelwoodruff08.github.io/data-portfolio
 
 ---
 
@@ -28,9 +28,9 @@ Welcome to my professional portfolio! This repository hosts a collection of my p
 ---
 
 ## 📬 Contact
-- **Email:** rachel.woodruff@cdc.gov *(or personal email)*
+- **Email:** rachelwoodruff08@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** github.com/yourusername
+- **GitHub:** github.com/rachelwoodruff08
 
 ---
 
