@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Rachel Woodruff
 
 Welcome to my professional portfolio! This repository hosts a collection of my publicly shareable work in **epidemiology**, **public health informatics**, and **data science**.
 
