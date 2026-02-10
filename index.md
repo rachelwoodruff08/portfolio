@@ -1,10 +1,8 @@
-
 ---
-Rachel Woodruff — Epidemiology, Public Health Informatics & Data Science Portfolio
 layout: default
 ---
+# Rachel Woodruff
 
-**Health Scientist | Data Science | Public Health Surveillance**  
 Welcome to my professional portfolio! This repository hosts a collection of my publicly shareable work in **epidemiology**, **public health informatics**, and **data science**.
 
 ## About Me
