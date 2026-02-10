@@ -1,3 +1,7 @@
+---
+layout: default  
+---
+
 # 📚 Publications
 
 Welcome to my collection of first author (with the exception of #5), peer-reviewed, published manuscripts.  
