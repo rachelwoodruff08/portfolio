@@ -4,23 +4,27 @@ Rachel Woodruff — Epidemiology, Public Health Informatics & Data Science Portf
 layout: default
 ---
 
-# Rachel Woodruff  
-**Health Scientist | Data Science | Public Health Surveillance**
+**Health Scientist | Data Science | Public Health Surveillance**  
+Welcome to my professional portfolio! This repository hosts a collection of my publicly shareable work in **epidemiology**, **public health informatics**, and **data science**.
 
-Welcome! I'm a data-driven public health scientist specializing in epidemiology, data analytics, and informatics. I currently work at the CDC in the Division of HIV Prevention (DHP), focusing on [insert focus area, e.g., HIV surveillance and prevention analytics].
+## About Me
+I’m a public health scientist who’s spent over two decades turning complex data into meaningful action through analysis, interpretation and visualization. From leading national surveillance systems to modernizing informatics platforms, I’ve built a career around making data work smarter for public health. I love digging into messy datasets and collaborating across teams to solve real-world problems. With a foundation in statistical analysis—and a Data Science Specialization underway—I’m now focused on bringing those skills to roles where data science drives impact.
 
-- 📧 Email: rachelwoodruff08@gmail.com
-- 🔗 LinkedIn
-- 🧪 GitHub
-- 📄 Resume
+---
+## Project 1: [State and City TB Report](https://www.cdc.gov/tb-data/2021-state-city-report/index.html#cdc_report_pub_study_section_6-additional-information)  
+### The 2021 State and City Tuberculosis Report presents key process and outcome measures, covering a range of topics, for tuberculosis (TB) control programs in the United States. 
+
+---
+- [Publications](https://github.com/rachelwoodruff08/portfolio/blob/main/publications.md) — Peer-reviewed research articles  
 
 ---
 
-## Portfolio Sections
-- **Projects** — end-to-end analyses, dashboards, pipelines
-- [Publications](https://github.com/rachelwoodruff08/portfolio/blob/main/publications.md) — Peer-reviewed research articles
-- **Presentations** — conference talks & briefings
-- **Code Samples** — reusable functions, notebooks, packages
-- **Dashboards** — interactive Tableau/Power BI/Shiny
+## 📬 Contact
+- **Email:** rachelwoodruff08@gmail.com
+- **LinkedIn:** [linkedin.com/in/rachelswoodruff](https://linkedin.com/in/rachelswoodruff)
+- **GitHub:** [github.com/rachelwoodruff08](github.com/rachelwoodruff08)
 
-> This portfolio highlights selected work that’s publicly shareable. For additional materials or internal briefings, feel free to reach out.
+---
+
+### 🔍 Notes
+- This portfolio includes only publicly shareable work. For internal projects or additional details, please reach out directly.
