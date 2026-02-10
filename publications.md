@@ -1,6 +1,6 @@
 # 📚 Publications
 
-Welcome to my collection of published manuscripts.  
+Welcome to my collection of first author (with the exception of #5), peer-reviewed, published manuscripts.  
 For full-text access, please use the provided DOI or official links.
 
 ---
