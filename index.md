@@ -24,7 +24,7 @@ Add screenshot of code snippet, and links to manuscripts (or maybe screenshots o
 Add screenshot of flowcharts and process maps, and CTS requirements tracker
 
 ---
-- Check out my [publications page](publications) for a list of my peer-reviewed research articles    
+## Check out my [publications page](publications) for a list of my peer-reviewed research articles    
 ---
 
 ## 📬 Contact
