@@ -21,7 +21,7 @@ Add screenshot of code snippet, and links to manuscripts (or maybe screenshots o
 ## Project 3: [Capacity Building Assistance Tracking System (CTS)](https://wwwn.cdc.gov/CTS2024)
 ### CTS is a web-based platform that streamlines the submission, triage, planning, and closeout of capacity building assistance requests from health departments and community based organizations. The system ensures consistent workflows, transparent coordination, and accurate reporting of capacity building activities for the HIV workforce. As the informatics lead for CTS, I serve as a bridge between programmatic teams, external partners, and the CTS development team—translating operational needs into clear functional requirements and ensuring the system evolves in alignment with CDC program priorities.
 
-Add screenshot of flowcharts and process maps, and CTS requirements tracker
+<img src="https://github.com/rachelwoodruff08/portfolio/blob/main/AP_Process%20Map_Screenshot%202026-03-26%20155410.png" width="40%"> &nbsp; <img src=
 
 ---
 ## Check out my [publications page](publications) for a list of my peer-reviewed research articles    
