@@ -321,10 +321,12 @@ prev(Tdif, se, sp,Tdiff.stderr, se.stderr,sp.stderr)
 </details>
 
 
+
 # [Capacity Building Assistance Tracking System (CTS)](https://wwwn.cdc.gov/CTS2024)
 CTS is a web-based platform that streamlines the submission, triage, planning, and closeout of capacity building assistance requests from health departments and community based organizations. The system ensures consistent workflows, transparent coordination, and accurate reporting of capacity building activities for the HIV workforce. As the informatics lead for CTS, I serve as a bridge between programmatic teams, external partners, and the CTS development team—translating operational needs into clear functional requirements and ensuring the system evolves in alignment with CDC program priorities.
 
-<img src="https://github.com/rachelwoodruff08/portfolio/blob/main/AP_Process%20Map_Screenshot%202026-03-26%20155410.png" width="40%"> <img src="https://github.com/rachelwoodruff08/portfolio/blob/main/TA_System%20Flowchart_Screenshot%202026-03-26%20155653.png" width="40%">
+<div align="center"> <img src="https://github.com/rachelwoodruff08/portfolio/blob/main/AP_Process%20Map_Screenshot%202026-03-26%20155410.png" width="60%"> 
+<img src="https://github.com/rachelwoodruff08/portfolio/blob/main/TA_System%20Flowchart_Screenshot%202026-03-26%20155653.png" width="60%"> </div>
 
 ---
 ## Check out my [publications page](publications) for a list of my peer-reviewed research articles    
@@ -338,4 +340,4 @@ CTS is a web-based platform that streamlines the submission, triage, planning, a
 ---
 
 ### 🔍 Notes
-- This portfolio includes only publicly shareable work. For internal projects or additional details, please reach out directly.
+- This portfolio includes only a few examples from projects that I have led. For additional examples, please reach out directly.
