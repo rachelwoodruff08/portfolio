@@ -17,8 +17,9 @@ The 2021 State and City Tuberculosis Report presents key process and outcome mea
 
 I also did a more in depth analysis of tuberculosis program performance indicators using data from the National Tuberculosis Indicators Project. My findings, which are intended to help TB programs identify areas for evaluation and improvement, were published as a Surveillance Summary in the CDC Morbidy and Mortality Weekly Report. For this descriptive analysis, I used R and Excel.
 
-<div align="center"> <img src="NTIP Surveillance Summary.png" width="40%"> <img src="NTIP Surveillance Summary Chart.png" width="40%"> </div>
-*Source: Woodruff R, Pratt R, Kolasa M. Progress Toward Tuberculosis Elimination and Tuberculosis Program Performance — National Tuberculosis Indicators Project, 2016–2022. MMWR Surveill Summ 2024;73(No. SS-4):1–18. DOI: http://dx.doi.org/10.15585/mmwr.ss7304a1*
+<div align="center"> <img src="NTIP Surveillance Summary.png" width="60%"> 
+  <img src="NTIP Surveillance Summary Chart.png" width="60%"> </div>
+*Woodruff R, Pratt R, Kolasa M. Progress Toward Tuberculosis Elimination and Tuberculosis Program Performance — National Tuberculosis Indicators Project, 2016–2022. MMWR Surveill Summ 2024;73(No. SS-4):1–18. DOI: http://dx.doi.org/10.15585/mmwr.ss7304a1*
 
 # National Health and Nutrition Examination Survey (NHANES) 
 NHANES is designed to assess the health and nutritional status of children and adults in the United States. It combines traditional health interviews with physical examinations and laboratory tests. In 2011-2012 and 2019-2020 I co-led the tuberculosis component of NHANES. In the earlier cycle, I designed the questions for the survey and performed quality assurance site visits for TB skin test placement and reading and TB blood test collection. I also spent a lot of time with the data, working alongside a statistician to fix complex measurement issues and co-authoring a major paper on our findings. After the initial study results were published, I did my own deep dive into the data associated with non-U.S.-born persons and published my findings. By the 2019-2020 cycle, I was the primary lead on assuring quality of TB blood test collection, analyzing the data and publishing the findings.
