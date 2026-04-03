@@ -11,7 +11,6 @@ Welcome to my professional portfolio! This repository hosts a collection of my p
 ## 📂 What's Included
 - **index.md** — Homepage with bio and navigation
 - **publications.md** — Peer-reviewed research articles  
-- **presentations.md** — Conference talks and internal briefings
 - **resume.pdf** — Downloadable resume
 
 ---
